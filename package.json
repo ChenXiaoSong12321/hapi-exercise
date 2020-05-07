@@ -17,6 +17,15 @@
   },
   "homepage": "https://github.com/ChenXiaoSong12321/hapi-exercise#readme",
   "dependencies": {
-    "hapi": "16"
+    "env2": "^2.2.2",
+    "hapi": "16",
+    "hapi-swagger": "7",
+    "inert": "4",
+    "joi": "13",
+    "package": "^1.0.1",
+    "vision": "4"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
   }
 }
